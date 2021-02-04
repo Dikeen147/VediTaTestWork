@@ -1,0 +1,20 @@
+.quantity {
+    width: 100px;
+}
+.quantity span {
+	display:inline-block;
+	width:30px;
+    height:30px;
+    border-radius: 15px;
+    background: #0d6efd;
+    color: white;
+	cursor:pointer;
+	text-align:center;
+}
+.quantity span:hover {
+	background: #065ad8
+}
+.quantity input {
+	width:30px;
+	text-align:center;
+}
